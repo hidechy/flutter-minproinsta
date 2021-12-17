@@ -12,6 +12,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_localizations:
+    sdk: flutter
+
   cupertino_icons: ^1.0.2
 
   flutter_launcher_icons: ^0.9.2
@@ -59,3 +62,5 @@ flutter_icons:
 flutter_native_splash:
   image: "assets/images/ic_launcher.png"
   color: "2e2e2e"
+flutter_intl:
+  enabled: true
